@@ -9,7 +9,7 @@ Are you bored? , want some suggestions when you are getting bored . Just now wit
 
 ## Getting Started
 
-We welcome contributions. Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions. Do Create an Issue will add updates for it soon in new versions!
 
 ## License
 
