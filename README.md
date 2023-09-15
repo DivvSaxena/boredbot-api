@@ -5,7 +5,7 @@
 ## Introduction
 
 Welcome to the Boredbot API project! Boredbot helps you find exciting activities when you're bored. With a simple API request, you'll receive suggestions for fun, creative, and productive things to do.
-Are you bored? , want some suggestions when you are getting bored . Just now with a click of a button you can get numerous suggestion !
+Are you bored? , want some suggestions when you are getting bored . Just now with a click of a button you can get numerous suggestion ! ![CLICK HERE FOR USE](https://boredbot-project-divvsaxena.vercel.app/)
 
 ## Getting Started
 
